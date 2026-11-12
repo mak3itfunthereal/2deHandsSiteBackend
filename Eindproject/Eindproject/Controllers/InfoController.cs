@@ -1,0 +1,14 @@
+using Microsoft.AspNetCore.Mvc;
+
+namespace Eindproject.Controllers;
+
+[ApiController]
+[Route("api/info")]
+public class InfoController : ControllerBase
+{
+    [HttpGet]
+    public ActionResult<string> Get()
+    {
+        return Ok("hello world");
+    }
+}

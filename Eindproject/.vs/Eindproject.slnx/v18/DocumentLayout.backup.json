@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\denni\\Desktop\\project\\School\\2deHandsSiteBackend\\Eindproject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3459EB9C-F1B3-D528-2BC9-B59EB871C097}|Eindproject\\Eindproject.csproj|c:\\users\\denni\\desktop\\project\\school\\2dehandssitebackend\\eindproject\\eindproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3459EB9C-F1B3-D528-2BC9-B59EB871C097}|Eindproject\\Eindproject.csproj|solutionrelative:eindproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3459EB9C-F1B3-D528-2BC9-B59EB871C097}|Eindproject\\Eindproject.csproj|c:\\users\\denni\\desktop\\project\\school\\2dehandssitebackend\\eindproject\\eindproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3459EB9C-F1B3-D528-2BC9-B59EB871C097}|Eindproject\\Eindproject.csproj|solutionrelative:eindproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3459EB9C-F1B3-D528-2BC9-B59EB871C097}|Eindproject\\Eindproject.csproj|c:\\users\\denni\\desktop\\project\\school\\2dehandssitebackend\\eindproject\\eindproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3459EB9C-F1B3-D528-2BC9-B59EB871C097}|Eindproject\\Eindproject.csproj|solutionrelative:eindproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3459EB9C-F1B3-D528-2BC9-B59EB871C097}|Eindproject\\Eindproject.csproj|c:\\users\\denni\\desktop\\project\\school\\2dehandssitebackend\\eindproject\\eindproject\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3459EB9C-F1B3-D528-2BC9-B59EB871C097}|Eindproject\\Eindproject.csproj|solutionrelative:eindproject\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoController.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\Desktop\\project\\School\\2deHandsSiteBackend\\Eindproject\\Eindproject\\Controllers\\InfoController.cs",
+              "RelativeDocumentMoniker": "Eindproject\\Controllers\\InfoController.cs",
+              "ToolTip": "C:\\Users\\denni\\Desktop\\project\\School\\2deHandsSiteBackend\\Eindproject\\Eindproject\\Controllers\\InfoController.cs",
+              "RelativeToolTip": "Eindproject\\Controllers\\InfoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:18:35.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\Desktop\\project\\School\\2deHandsSiteBackend\\Eindproject\\Eindproject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Eindproject\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\denni\\Desktop\\project\\School\\2deHandsSiteBackend\\Eindproject\\Eindproject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Eindproject\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:18:29.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\Desktop\\project\\School\\2deHandsSiteBackend\\Eindproject\\Eindproject\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Eindproject\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\denni\\Desktop\\project\\School\\2deHandsSiteBackend\\Eindproject\\Eindproject\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Eindproject\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:18:22.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\Desktop\\project\\School\\2deHandsSiteBackend\\Eindproject\\Eindproject\\Program.cs",
+              "RelativeDocumentMoniker": "Eindproject\\Program.cs",
+              "ToolTip": "C:\\Users\\denni\\Desktop\\project\\School\\2deHandsSiteBackend\\Eindproject\\Eindproject\\Program.cs",
+              "RelativeToolTip": "Eindproject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:18:07.582Z",
+              "EditorCaption": ""
             }
           ]
         }
