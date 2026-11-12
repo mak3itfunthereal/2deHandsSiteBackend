@@ -7,8 +7,8 @@ namespace Eindproject.Controllers;
 public class InfoController : ControllerBase
 {
     [HttpGet]
-    public ActionResult<string> Get()
+    public ActionResult<object> Get()
     {
-        return Ok("hello world");
+        return Ok(new { message = "hello world" });
     }
 }
