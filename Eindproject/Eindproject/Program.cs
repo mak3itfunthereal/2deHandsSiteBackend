@@ -9,8 +9,9 @@ builder.Services.AddCors(options =>
     {
         policy.WithOrigins(
                 "https://eindproject-meld.vercel.app",
-                "http://localhost:5218",
-                "https://localhost:7278")
+            "http://localhost:5173",
+            "http://localhost:5218",
+            "https://localhost:7278")
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
